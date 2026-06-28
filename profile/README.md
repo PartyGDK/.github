@@ -8,7 +8,7 @@
 
 **PartyGDK** представляет собой минимальный набор для создания игр для вечеринок. В его состав входят:
 
-- [WebSocket-сервер (Node.js)](https://github.com/PartyGDK/server-js);
+- [WebSocket-сервер (Node.js / TypeScript)](https://github.com/PartyGDK/server-ts);
 - [Сайт — контроллер для входа в игру (Vue)](https://github.com/PartyGDK/website-vue);
 - [Пакет для Unity](https://github.com/PartyGDK/unity-package).
 
